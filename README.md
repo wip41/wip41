@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Infrastructure / Backend Engineer
+
+業務外で学習・検証した技術について記録しています。
+
+## Skills
+
+### Infrastructure
+- Windows Server
+- Linux
+- Hyper-V
+- TCP/IP
+- VLAN / Routing
+
+### Development
+- ShellScript
+- C#
+- Python
+- Database / SQL
+- Backend Development
+
+## Repositories
+
+今後、以下の内容を公開していく予定です。
+
+- Network Lab
+- Database Lab
+- Linux Lab
+- Backend Lab
