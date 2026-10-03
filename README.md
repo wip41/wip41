@@ -40,7 +40,7 @@ Infrastructure / Backend Engineer
 今後、以下の内容を公開していく予定です。
 
 - Network Lab
-- Database
+- Database  
   [Database](https://github.com/wip41/Database)
 - Linux Lab
 - Backend Lab
